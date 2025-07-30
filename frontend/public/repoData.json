@@ -1,0 +1,32 @@
+{
+  "https://github.com/user1/project1": {
+    "summary": "This is a project about XYZ.",
+    "aiScore": 87,
+    "suggestions": ["Improve README", "Refactor main logic"],
+    "roadmap": ["Add tests", "Improve UI"],
+    "language": "JavaScript"
+  },
+  "https://github.com/user2/project2": {
+    "summary": "An app for ABC using React.",
+    "aiScore": 92,
+    "suggestions": ["Use React Query", "Split components"],
+    "roadmap": ["Add login", "Setup CI/CD"],
+    "language": "TypeScript"
+  },
+  
+  "https://github.com/example/repo": {
+    "summary": "This is a React app...",
+    "readme": "## Example Readme...",
+    "roadmap": ["Add unit tests", "Improve UI", "Add CI/CD"],
+    "suggestions": ["Use prop-types", "Refactor context usage"],
+    "aiScore": 87,
+    "skillGraph": {
+      "JavaScript": 45,
+      "CSS": 25,
+      "HTML": 15,
+      "Other": 15
+    }
+  }
+}
+
+
